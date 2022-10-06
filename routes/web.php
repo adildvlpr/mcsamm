@@ -18,4 +18,4 @@ Route::get('/', function () {
 });
 
 
-Route::get('details', 'API\UserController@details');
+Route::get('StoreData', 'API\UserController@details');
